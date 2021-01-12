@@ -1,0 +1,4 @@
+org/proiect/Main.java
+ org.proiect.Main
+ org.proiect.Main$1
+ org.proiect.Main$2

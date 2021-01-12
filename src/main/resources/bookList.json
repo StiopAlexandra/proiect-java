@@ -1,0 +1,36 @@
+[ {
+  "title" : "Fata din tren",
+  "author" : "Paula Hawkins",
+  "pages" : "408",
+  "category" : "CRIME_THRILLER_MISTER"
+}, {
+  "title" : "Pacienta tacuta",
+  "author" : "Alex Michaelides",
+  "pages" : "368",
+  "category" : "CRIME_THRILLER_MISTER"
+}, {
+  "title" : "Speranta pierduta",
+  "author" : "Colleen Hoover",
+  "pages" : "352",
+  "category" : "YOUNG_ADULT"
+}, {
+  "title" : "Hotul de carti",
+  "author" : "Markus Zusak",
+  "pages" : "440",
+  "category" : "MODERNI_CONTEMPORANI"
+}, {
+  "title" : "Hanul lui Manuc",
+  "author" : "Simona Antonescu",
+  "pages" : "664",
+  "category" : "ISTORICA"
+}, {
+  "title" : "Furia rosie",
+  "author" : "Pierce Brown",
+  "pages" : "506",
+  "category" : "SCIENCE_FICTION"
+}, {
+  "title" : "Ana Karenina",
+  "author" : "Lev Tolstoi",
+  "pages" : "936",
+  "category" : "CLASICI"
+} ]
